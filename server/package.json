@@ -11,7 +11,7 @@
   "dependencies": {
     "apollo-server": "^2.6.9",
     "apollo-server-express": "^2.6.9",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.4.2",
     "lodash": "^4.17.15",
     "qs-middleware": "^1.0.3",
